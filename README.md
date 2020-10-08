@@ -2,7 +2,7 @@
 
 ## How to run the program
 
-![Test Image 1](public/assets/screen_shot.png)
+![screen_shot](public/assets/screen_shot1.png)
 
 Clone the project into local
 
